@@ -1,5 +1,5 @@
 # EEL5840-Project
-* This project tries to classify 5 different types of bricks by image-based. The Edge Histogram Descriptor (EHD) extracts features for each image. Then, train Probabilistic Generative Classifier (PGC) to classify bricks.
+* This project tries to classify 4 different types of bricks and non-brick object by image-based. The Edge Histogram Descriptor (EHD) extracts features for each image. Then, train Probabilistic Generative Classifier (PGC) to classify bricks.
 
 ## Parameter explanation
 ### Train.py
